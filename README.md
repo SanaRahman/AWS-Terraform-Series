@@ -1,5 +1,9 @@
 # Cloud and DevOps Bootcamp Journey with Xgrid.co
 
+![GitHub](https://img.shields.io/badge/GitHub-SanaRahman-blue?style=flat-square&logo=github)
+![AWS](https://img.shields.io/badge/AWS-AmazonWebServices-yellow?style=flat-square&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-Proficient-purple?style=flat-square&logo=terraform)
+
 ## Introduction
 Welcome to my Cloud and DevOps Bootcamp journey with xgrid.co! I am thrilled to share my experiences and accomplishments during this exciting learning adventure. This comprehensive README document showcases the tasks I completed, the skills I acquired, and the valuable knowledge I gained throughout this bootcamp.
 
@@ -27,6 +31,7 @@ During the bootcamp, I acquired practical knowledge of various AWS services, inc
 - Blue/Green Deployments
 - Application Load Balancer (ALB)
 
+
 ## Sprint 1: Web Application Creation
 In Sprint 1, the main objective was to create a web application that interacts with a RESTful public API and stores the results in a database. Here's a brief overview of the tasks:
 
@@ -34,7 +39,7 @@ In Sprint 1, the main objective was to create a web application that interacts w
 - Define routes to handle user input and API calls.
 - Dockerize the web application for containerization.
 
-[Terraform Link for Sprint 1](link_to_your_terraform_folder_sprint_1)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_1)
 
 ## Sprint 2: AWS Cloud Infrastructure Setup
 Sprint 2 focused on transferring the local web application to the AWS cloud. Here's what was achieved:
@@ -44,7 +49,7 @@ Sprint 2 focused on transferring the local web application to the AWS cloud. Her
 - Stored REST API results in Amazon Aurora Serverless.
 - Set up CloudWatch Dashboards for monitoring.
 
-[Terraform Link for Sprint 2](link_to_your_terraform_folder_sprint_2)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_2)
 
 ## Sprint 3: User Authentication and Load Balancing
 In Sprint 3, the following tasks were completed:
@@ -55,7 +60,7 @@ In Sprint 3, the following tasks were completed:
 - Implemented HTTPS for secure communication.
 - Enhanced backend to fetch data from the database and user authentication.
 
-[Terraform Link for Sprint 3](link_to_your_terraform_folder_sprint_3)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_3)
 
 ## Sprint 4: ECS Blue/Green Deployment
 The final sprint involved automating the deployment process using Blue/Green deployment on ECS. Key tasks included:
@@ -65,7 +70,7 @@ The final sprint involved automating the deployment process using Blue/Green dep
 - Deploying the updated task definition using CodeDeploy.
 - Streamlining application deployment in the ECS environment.
 
-[Terraform Link for Sprint 4](link_to_your_terraform_folder_sprint_4)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_4)
 
 ## Conclusion
-This README summarizes my journey through the Cloud and DevOps bootcamp and highlights the tasks completed in each sprint. I gained valuable experience in cloud infrastructure management, application deployment, and AWS services, contributing to my skills as a Cloud and DevOps practitioner.
+This README summarizes my journey through the Cloud and DevOps bootcamp and highlights the tasks completed in each sprint. I gained valuable experience in cloud infrastructure management, application deployment
