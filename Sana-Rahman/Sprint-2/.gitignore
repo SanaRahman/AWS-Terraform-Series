@@ -1,0 +1,10 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+locals.tf
+.tfvars
+Terraform-infra/architecture.dot
+Terraform-infra/terraform.tfvars
+test.tf
+Terraform-infra/user_data_script.sh
