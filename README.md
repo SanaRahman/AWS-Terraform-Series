@@ -39,7 +39,7 @@ In Sprint 1, the main objective was to create a web application that interacts w
 - Define routes to handle user input and API calls.
 - Dockerize the web application for containerization.
 
-[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_1)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](https://github.com/SanaRahman/AWS-Terraform-Series/tree/main/Sprints/Sprint-1)
 
 ## Sprint 2: AWS Cloud Infrastructure Setup
 Sprint 2 focused on transferring the local web application to the AWS cloud. Here's what was achieved:
@@ -49,7 +49,8 @@ Sprint 2 focused on transferring the local web application to the AWS cloud. Her
 - Stored REST API results in Amazon Aurora Serverless.
 - Set up CloudWatch Dashboards for monitoring.
 
-[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_2)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](https://github.com/SanaRahman/AWS-Terraform-Series/tree/main/Sprints/Sprint-2)
+
 
 ## Sprint 3: User Authentication and Load Balancing
 In Sprint 3, the following tasks were completed:
@@ -60,7 +61,8 @@ In Sprint 3, the following tasks were completed:
 - Implemented HTTPS for secure communication.
 - Enhanced backend to fetch data from the database and user authentication.
 
-[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_3)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](https://github.com/SanaRahman/AWS-Terraform-Series/tree/main/Sprints/Sprint-3)
+
 
 ## Sprint 4: ECS Blue/Green Deployment
 The final sprint involved automating the deployment process using Blue/Green deployment on ECS. Key tasks included:
@@ -70,7 +72,8 @@ The final sprint involved automating the deployment process using Blue/Green dep
 - Deploying the updated task definition using CodeDeploy.
 - Streamlining application deployment in the ECS environment.
 
-[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](link_to_your_terraform_folder_sprint_4)
+[![Terraform Link](https://img.shields.io/badge/Terraform-FolderLink-success)](https://github.com/SanaRahman/AWS-Terraform-Series/tree/main/Sprints/Sprint-4)
+
 
 ## Conclusion
 This README summarizes my journey through the Cloud and DevOps bootcamp and highlights the tasks completed in each sprint. I gained valuable experience in cloud infrastructure management, application deployment
